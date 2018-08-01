@@ -1,0 +1,2 @@
+var myVariable='adnan';
+myVariable;
